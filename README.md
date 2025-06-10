@@ -6,7 +6,7 @@ The repository now consists of three forms of data :
     The data used for fine-tuning sentence transformers to create better embeddings. 
     This data is divided into train and eval data to train and evaluate sentence transformer models.
     
- 2. Test data: 
+ **2. Test data: **
     This data set is used for evaluating the performance of semantic search pipeline that we build with each sentence transformer.
     It can be used with both original and fine-tuned sentnece transformers.
     
