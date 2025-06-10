@@ -14,3 +14,6 @@ This Repository includes codes and data used for fine-tuning transformer models 
  *3. Zero_shut test data:*
     This  data has not been given to the models during fine-tuning.
     We used this data to evaluate our fine-tuned models’ generalizability over unseen data.
+
+## Also there are two jupyter notebooks to use: 
+*1. 
