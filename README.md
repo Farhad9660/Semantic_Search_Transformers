@@ -16,4 +16,7 @@ This Repository includes codes and data used for fine-tuning transformer models 
     We used this data to evaluate our fine-tuned models’ generalizability over unseen data. (Zero_shot_test_data_Mordad_1403)
 
 ## Also there are two jupyter notebooks to use: 
-*1. 
+*1. The fine tuning code (sentence_transformers_fine_tuning_2.ipynb): 
+This notebook takes any sentence transformer and fine tune it based on fine tune data. 
+*2. Main semantic search pipeline ():
+This is the main pipeline that implements semantic search using any of the emebdding models and evaluate theperformance with different criteria. 
