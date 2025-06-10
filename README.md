@@ -19,6 +19,7 @@ This Repository includes codes and data used for fine-tuning transformer models 
 *1. The fine tuning code (sentence_transformers_fine_tuning_2.ipynb):*
 
 This notebook takes any sentence transformer and fine tune it based on fine tune data. 
+
 *2. Main semantic search pipeline (Semantic_Search_Pipeline_Version_3_with_NDCG.ipynb):*
 
 This is the main pipeline that implements semantic search using any of the emebdding models and evaluate theperformance with different criteria.
